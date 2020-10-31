@@ -24,9 +24,9 @@ Java作业仓库
 ## 三、核心代码
 ```
 核心代码1：
-   Teacher t1=new Teacher(11, "李晓华", "女","教授");//初始化老师的值
-   Student s1=new Student(01, "坤坤", "男",18);//初始化学生的值
-   Course c1=new Course(001, "哲学", "李晓华", "9:00", "教室301");//初始化课程的值
+   Teacher t1=new Teacher(11, "李晓华", "女","教授");//实例化老师的值
+   Student s1=new Student(01, "坤坤", "男",18);//实例化学生的值
+   Course c1=new Course(001, "哲学", "李晓华", "9:00", "教室301");//实例化课程的值
    t1.setCourse(c1);
    s1.setCourse(c1);
    System.out.println(s1.toString());
@@ -43,6 +43,7 @@ if(s1.getCourse().getCourseId()==0){//如果课程编号为0，输出退课
 		}
 ```
 ## 四、实验结果
-
+![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/fTW3oLibWre2icgHmMng0BEl2Oia3O6E8xxKrDyFyyvyMHK1u1dtov8sAXQ6gzibic6Nb6exiae4b8nzc/0)
+![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/fTW3oLibWre2icgHmMng0BEl2Oia3O6E8xxKrDyFyyvyMFl97aic3ibMS3k51Sco1b1MiaScJaBicydvOs/0)
 
 ## 五、实验感想
