@@ -47,3 +47,4 @@ if(s1.getCourse().getCourseId()==0){//如果课程编号为0，输出退课
 ![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/fTW3oLibWre2icgHmMng0BEl2Oia3O6E8xxKrDyFyyvyMFl97aic3ibMS3k51Sco1b1MiaScJaBicydvOs/0)
 
 ## 五、实验感想
+通过这次实验，我掌握了类的继承方法、使用super()对子类进行实例化以及toString（）的输出方法，但是学生的退课功能还不够完善，日后会加以改进。
